@@ -1,3 +1,7 @@
+# Work in progress! DO NOT USE IN PRODUCTION
+
+--
+
 # Miitti
 
 Minimalistic event scheduling
@@ -51,4 +55,3 @@ http://<host>/api/v1
 ```
 
 For example, locally with the default port: `http://localhost:3000/api/v1`
-
