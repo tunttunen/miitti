@@ -1,6 +1,6 @@
+```
 # Work in progress! DO NOT USE IN PRODUCTION
-
---
+```
 
 # Miitti
 
