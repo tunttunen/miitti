@@ -1,0 +1,32 @@
+{
+  "name": "miitti",
+  "version": "0.1.0",
+  "description": "Minimalistic event scheduling",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tunttunen/miitti.git"
+  },
+  "author": "Panu Tunttunen <panu@tunttunen.fi>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.13.2",
+    "express": "^4.12.4",
+    "lodash": "^3.10.0",
+    "marked": "^0.3.3",
+    "moment": "^2.10.2",
+    "mongodb": "^2.0.39",
+    "mongoose": "^4.0.8",
+    "validator": "^3.41.2"
+  },
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "mocha": "^2.2.5",
+    "supertest": "^1.0.1"
+  }
+}
